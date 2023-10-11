@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClassTask\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClass-Task\\StudentClassTask\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClassTask\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClass-Task\\StudentClassTask\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\elvin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClassTask\\Core\\obj\\",
+      "outputPath": "C:\\Users\\elvin\\OneDrive\\Documents\\Sənədlər\\ForFuture-tasks\\StudentClass-Task\\StudentClassTask\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elvin\\AppData\\Roaming\\NuGet\\NuGet.Config",
