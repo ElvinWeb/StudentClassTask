@@ -61,7 +61,27 @@ namespace Core.Models
             }
 
         }
-       
+        public Student[] RemoveStudent(int stdIndex)
+        {
+            Student[] newStudents = new Student[students.Length - 1];
+            int newIndex = 0;
+
+            if (stdIndex >= 0 && stdIndex < students.Length)
+            {
+                for (int i = 0; i < students.Length; i++)
+                {
+                    if (i != stdIndex)
+                    {
+                        newStudents[newIndex] = students[i];
+                        newIndex++;
+                    }
+                    
+                }
+                students = newStudents;
+            }
+            return newStudents;
+        }
+
         public void ShowAllStduents()
         {
             foreach (Student std in students)

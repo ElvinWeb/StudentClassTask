@@ -31,6 +31,12 @@ namespace StudentClassTask
 
             group.ShowAllStduents();
 
+            Console.WriteLine("<================================>");
+
+            group.RemoveStudent(2);
+
+            group.ShowAllStduents();
+
 
         }
     }
