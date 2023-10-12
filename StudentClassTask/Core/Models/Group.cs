@@ -61,6 +61,14 @@ namespace Core.Models
             }
 
         }
+       
+        public void ShowAllStduents()
+        {
+            foreach (Student std in students)
+            {
+                Console.WriteLine($"FullName: {std.FullName}; No: {std.GroupNo}; Average: {std.AvgPoint};");
+            }
+        }
         public void ShowGroupDetail()
         {
             Console.WriteLine($"Group adi:{No} LIMIT:{StudentLimit}");

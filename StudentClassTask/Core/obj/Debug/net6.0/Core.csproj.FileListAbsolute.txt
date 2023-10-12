@@ -9,3 +9,14 @@ C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClassTask\C
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClassTask\Core\obj\Debug\net6.0\refint\Core.dll
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClassTask\Core\obj\Debug\net6.0\Core.pdb
 C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClassTask\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\bin\Debug\net6.0\Core.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\elvin\OneDrive\Documents\Sənədlər\ForFuture-tasks\StudentClass-Task\StudentClassTask\Core\obj\Debug\net6.0\ref\Core.dll
